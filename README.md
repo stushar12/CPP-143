@@ -1,2 +1,6 @@
 # CPP-143
-Rearrange string
+Rearrange characters in a string
+
+
+
+https://practice.geeksforgeeks.org/problems/rearrange-characters/0
