@@ -2,5 +2,4 @@
 Rearrange characters in a string
 
 
-
-https://practice.geeksforgeeks.org/problems/rearrange-characters/0
+https://www.geeksforgeeks.org/rearrange-characters-string-no-two-adjacent/
