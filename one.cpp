@@ -11,7 +11,7 @@ bool rearrange(string s)
 	        m[s[i]]++;
 	    for(auto x: m)
 	    {
-	        if(x.second<len-x.second+1)
+	        if(x.second<=len-x.second+1)
 	        continue;
 	        else
 	       return 0;
